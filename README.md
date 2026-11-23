@@ -54,8 +54,5 @@ This is a **conceptual** design. It does not implement secure upload, DMS integr
 ## Real-world checks before use
 Check data residency, encryption and key management, legal hold and retention, user permissions, recovery objectives, versioning, access logging, backup and lifecycle policies, API compatibility, storage operations, data transfer/egress, licensing, and support fees. Use the relevant cloud vendor's official pricing calculator for up-to-date estimates.
 
-## Suggested portfolio description
-“Built a Python/Streamlit pre-sales prototype that captures fictional client requirements, models migration costs and payback under editable assumptions, and supports a five-minute technical discovery and solution demo; added automated unit tests and downloadable scenario summaries.”
-
 ## Suggested next iteration
 Implement an **actual** AWS sandbox proof of concept with S3, IAM least-privilege controls, Lambda/API Gateway, a synthetic dataset, and architecture/IaC documentation. Keep it separate from this financial model until it is built and tested.
