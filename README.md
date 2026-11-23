@@ -4,7 +4,7 @@ A **pre-sales / Solutions Engineering portfolio proof of concept** that combines
 
 ![Status](https://img.shields.io/badge/status-portfolio%20prototype-blue)
 
-> **Important:** This is a portfolio prototype with synthetic customer information. It is **not** a deployed AWS/Azure infrastructure solution, a pricing API integration, or an actual customer engagement. All unit costs are user-editable illustrative assumptions—not quotes or current cloud-provider pricing.
+> **Important:** **Project Note:** This is a Solutions Engineering portfolio prototype using simulated customer data and customizable cloud pricing assumptions. It demonstrates technical discovery, cost modeling, and solution design rather than production cloud infrastructure.
 
 ## What it demonstrates
 - **Discovery:** translate storage, user count, system limitations, and customer priorities into requirements.
