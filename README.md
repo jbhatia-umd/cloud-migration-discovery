@@ -54,5 +54,5 @@ This is a **conceptual** design. It does not implement secure upload, DMS integr
 ## Real-world checks before use
 Check data residency, encryption and key management, legal hold and retention, user permissions, recovery objectives, versioning, access logging, backup and lifecycle policies, API compatibility, storage operations, data transfer/egress, licensing, and support fees. Use the relevant cloud vendor's official pricing calculator for up-to-date estimates.
 
-## Suggested next iteration
+## Future Improvements
 Implement an **actual** AWS sandbox proof of concept with S3, IAM least-privilege controls, Lambda/API Gateway, a synthetic dataset, and architecture/IaC documentation. Keep it separate from this financial model until it is built and tested.
